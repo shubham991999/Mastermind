@@ -1,9 +1,13 @@
-# Mastermind
+### Mastermind Game
+
 Developed a Mastermind Game Logic using C++ programming and SAT solver.
 
+### Instructions for Execution
 
-Use following commands for executing the code-
+1. Compile :
 
-Compile : g++ file_name.cpp -o file_name
+   **gcc file_name.c -o file_name**
+	 
+2. Run :
 
-Run	: ./file_name
+   **./file_name**
